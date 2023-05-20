@@ -1,0 +1,1 @@
+# effective-unit-test-sonar-rule
